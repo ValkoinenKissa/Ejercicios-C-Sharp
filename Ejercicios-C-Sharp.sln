@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Primer_Trimestre", "Primer_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hello_World", "Ejercicios\Primer_Trimestre\Hello_World\Hello_World.csproj", "{C164B5F7-9D90-4350-8E66-5B447B93962F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduce_Datos", "Ejercicios\Primer_Trimestre\Introduce_Datos\Introduce_Datos.csproj", "{331D1663-392D-4241-A6CD-C922F8A326DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{C164B5F7-9D90-4350-8E66-5B447B93962F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C164B5F7-9D90-4350-8E66-5B447B93962F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C164B5F7-9D90-4350-8E66-5B447B93962F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{331D1663-392D-4241-A6CD-C922F8A326DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{331D1663-392D-4241-A6CD-C922F8A326DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{331D1663-392D-4241-A6CD-C922F8A326DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{331D1663-392D-4241-A6CD-C922F8A326DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -26,6 +32,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{0F86BC4D-B1DB-43E2-A982-3E658D31A5DF} = {2D1BC018-432E-4206-9A91-12C82ABBB984}
 		{C164B5F7-9D90-4350-8E66-5B447B93962F} = {0F86BC4D-B1DB-43E2-A982-3E658D31A5DF}
+		{331D1663-392D-4241-A6CD-C922F8A326DA} = {0F86BC4D-B1DB-43E2-A982-3E658D31A5DF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9DC77045-C216-4DA7-B940-463EA2E68CDF}
