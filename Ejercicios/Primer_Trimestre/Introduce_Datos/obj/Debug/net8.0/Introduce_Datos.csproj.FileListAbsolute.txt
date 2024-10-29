@@ -1,0 +1,15 @@
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Introduce_Datos\bin\Debug\net8.0\Introduce_Datos.exe
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Introduce_Datos\bin\Debug\net8.0\Introduce_Datos.deps.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Introduce_Datos\bin\Debug\net8.0\Introduce_Datos.runtimeconfig.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Introduce_Datos\bin\Debug\net8.0\Introduce_Datos.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Introduce_Datos\bin\Debug\net8.0\Introduce_Datos.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Introduce_Datos\obj\Debug\net8.0\Introduce_Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Introduce_Datos\obj\Debug\net8.0\Introduce_Datos.AssemblyInfoInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Introduce_Datos\obj\Debug\net8.0\Introduce_Datos.AssemblyInfo.cs
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Introduce_Datos\obj\Debug\net8.0\Introduce_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Introduce_Datos\obj\Debug\net8.0\Introduce_Datos.sourcelink.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Introduce_Datos\obj\Debug\net8.0\Introduce_Datos.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Introduce_Datos\obj\Debug\net8.0\refint\Introduce_Datos.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Introduce_Datos\obj\Debug\net8.0\Introduce_Datos.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Introduce_Datos\obj\Debug\net8.0\Introduce_Datos.genruntimeconfig.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Introduce_Datos\obj\Debug\net8.0\ref\Introduce_Datos.dll
