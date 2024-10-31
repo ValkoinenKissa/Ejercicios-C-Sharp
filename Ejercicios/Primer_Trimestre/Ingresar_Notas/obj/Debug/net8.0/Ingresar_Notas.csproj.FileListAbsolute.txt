@@ -1,0 +1,15 @@
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Ingresar_Notas\bin\Debug\net8.0\Ingresar_Notas.exe
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Ingresar_Notas\bin\Debug\net8.0\Ingresar_Notas.deps.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Ingresar_Notas\bin\Debug\net8.0\Ingresar_Notas.runtimeconfig.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Ingresar_Notas\bin\Debug\net8.0\Ingresar_Notas.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Ingresar_Notas\bin\Debug\net8.0\Ingresar_Notas.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Ingresar_Notas\obj\Debug\net8.0\Ingresar_Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Ingresar_Notas\obj\Debug\net8.0\Ingresar_Notas.AssemblyInfoInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Ingresar_Notas\obj\Debug\net8.0\Ingresar_Notas.AssemblyInfo.cs
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Ingresar_Notas\obj\Debug\net8.0\Ingresar_Notas.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Ingresar_Notas\obj\Debug\net8.0\Ingresar_Notas.sourcelink.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Ingresar_Notas\obj\Debug\net8.0\Ingresar_Notas.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Ingresar_Notas\obj\Debug\net8.0\refint\Ingresar_Notas.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Ingresar_Notas\obj\Debug\net8.0\Ingresar_Notas.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Ingresar_Notas\obj\Debug\net8.0\Ingresar_Notas.genruntimeconfig.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Ingresar_Notas\obj\Debug\net8.0\ref\Ingresar_Notas.dll

@@ -1,0 +1,15 @@
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Calculo_promedio_tiempo\bin\Debug\net8.0\Calculo_promedio_tiempo.exe
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Calculo_promedio_tiempo\bin\Debug\net8.0\Calculo_promedio_tiempo.deps.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Calculo_promedio_tiempo\bin\Debug\net8.0\Calculo_promedio_tiempo.runtimeconfig.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Calculo_promedio_tiempo\bin\Debug\net8.0\Calculo_promedio_tiempo.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Calculo_promedio_tiempo\bin\Debug\net8.0\Calculo_promedio_tiempo.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Calculo_promedio_tiempo\obj\Debug\net8.0\Calculo_promedio_tiempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Calculo_promedio_tiempo\obj\Debug\net8.0\Calculo_promedio_tiempo.AssemblyInfoInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Calculo_promedio_tiempo\obj\Debug\net8.0\Calculo_promedio_tiempo.AssemblyInfo.cs
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Calculo_promedio_tiempo\obj\Debug\net8.0\Calculo_promedio_tiempo.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Calculo_promedio_tiempo\obj\Debug\net8.0\Calculo_promedio_tiempo.sourcelink.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Calculo_promedio_tiempo\obj\Debug\net8.0\Calculo_promedio_tiempo.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Calculo_promedio_tiempo\obj\Debug\net8.0\refint\Calculo_promedio_tiempo.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Calculo_promedio_tiempo\obj\Debug\net8.0\Calculo_promedio_tiempo.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Calculo_promedio_tiempo\obj\Debug\net8.0\Calculo_promedio_tiempo.genruntimeconfig.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Calculo_promedio_tiempo\obj\Debug\net8.0\ref\Calculo_promedio_tiempo.dll
