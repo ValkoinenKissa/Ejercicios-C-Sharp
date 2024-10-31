@@ -1,0 +1,15 @@
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ejemplodam\bin\Debug\net8.0\ejemplodam.exe
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ejemplodam\bin\Debug\net8.0\ejemplodam.deps.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ejemplodam\bin\Debug\net8.0\ejemplodam.runtimeconfig.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ejemplodam\bin\Debug\net8.0\ejemplodam.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ejemplodam\bin\Debug\net8.0\ejemplodam.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ejemplodam\obj\Debug\net8.0\ejemplodam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ejemplodam\obj\Debug\net8.0\ejemplodam.AssemblyInfoInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ejemplodam\obj\Debug\net8.0\ejemplodam.AssemblyInfo.cs
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ejemplodam\obj\Debug\net8.0\ejemplodam.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ejemplodam\obj\Debug\net8.0\ejemplodam.sourcelink.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ejemplodam\obj\Debug\net8.0\ejemplodam.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ejemplodam\obj\Debug\net8.0\refint\ejemplodam.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ejemplodam\obj\Debug\net8.0\ejemplodam.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ejemplodam\obj\Debug\net8.0\ejemplodam.genruntimeconfig.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ejemplodam\obj\Debug\net8.0\ref\ejemplodam.dll
