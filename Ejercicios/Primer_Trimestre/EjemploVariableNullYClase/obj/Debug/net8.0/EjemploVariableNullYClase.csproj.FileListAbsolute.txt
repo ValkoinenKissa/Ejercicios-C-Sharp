@@ -1,0 +1,15 @@
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjemploVariableNullYClase\bin\Debug\net8.0\EjemploVariableNullYClase.exe
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjemploVariableNullYClase\bin\Debug\net8.0\EjemploVariableNullYClase.deps.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjemploVariableNullYClase\bin\Debug\net8.0\EjemploVariableNullYClase.runtimeconfig.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjemploVariableNullYClase\bin\Debug\net8.0\EjemploVariableNullYClase.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjemploVariableNullYClase\bin\Debug\net8.0\EjemploVariableNullYClase.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjemploVariableNullYClase\obj\Debug\net8.0\EjemploVariableNullYClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjemploVariableNullYClase\obj\Debug\net8.0\EjemploVariableNullYClase.AssemblyInfoInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjemploVariableNullYClase\obj\Debug\net8.0\EjemploVariableNullYClase.AssemblyInfo.cs
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjemploVariableNullYClase\obj\Debug\net8.0\EjemploVariableNullYClase.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjemploVariableNullYClase\obj\Debug\net8.0\EjemploVariableNullYClase.sourcelink.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjemploVariableNullYClase\obj\Debug\net8.0\EjemploVariableNullYClase.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjemploVariableNullYClase\obj\Debug\net8.0\refint\EjemploVariableNullYClase.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjemploVariableNullYClase\obj\Debug\net8.0\EjemploVariableNullYClase.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjemploVariableNullYClase\obj\Debug\net8.0\EjemploVariableNullYClase.genruntimeconfig.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjemploVariableNullYClase\obj\Debug\net8.0\ref\EjemploVariableNullYClase.dll
