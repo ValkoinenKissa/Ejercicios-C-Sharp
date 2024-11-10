@@ -1,0 +1,15 @@
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjercicioFunciones\bin\Debug\net8.0\EjercicioFunciones.exe
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjercicioFunciones\bin\Debug\net8.0\EjercicioFunciones.deps.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjercicioFunciones\bin\Debug\net8.0\EjercicioFunciones.runtimeconfig.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjercicioFunciones\bin\Debug\net8.0\EjercicioFunciones.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjercicioFunciones\bin\Debug\net8.0\EjercicioFunciones.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjercicioFunciones\obj\Debug\net8.0\EjercicioFunciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjercicioFunciones\obj\Debug\net8.0\EjercicioFunciones.AssemblyInfoInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjercicioFunciones\obj\Debug\net8.0\EjercicioFunciones.AssemblyInfo.cs
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjercicioFunciones\obj\Debug\net8.0\EjercicioFunciones.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjercicioFunciones\obj\Debug\net8.0\EjercicioFunciones.sourcelink.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjercicioFunciones\obj\Debug\net8.0\EjercicioFunciones.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjercicioFunciones\obj\Debug\net8.0\refint\EjercicioFunciones.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjercicioFunciones\obj\Debug\net8.0\EjercicioFunciones.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjercicioFunciones\obj\Debug\net8.0\EjercicioFunciones.genruntimeconfig.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjercicioFunciones\obj\Debug\net8.0\ref\EjercicioFunciones.dll
