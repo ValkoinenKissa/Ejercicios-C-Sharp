@@ -1,0 +1,5 @@
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjemploMetodo\obj\Debug\net8.0\EjemploMetodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjemploMetodo\obj\Debug\net8.0\EjemploMetodo.AssemblyInfoInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjemploMetodo\obj\Debug\net8.0\EjemploMetodo.AssemblyInfo.cs
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjemploMetodo\obj\Debug\net8.0\EjemploMetodo.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjemploMetodo\obj\Debug\net8.0\EjemploMetodo.sourcelink.json
