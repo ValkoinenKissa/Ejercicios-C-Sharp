@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ingresar_Notas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb297c06328c63c4ff57bc58d6ac7baa19ab9ecf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4013febf77705f1e3031eccc6d57384d85b2409")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ingresar_Notas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ingresar_Notas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

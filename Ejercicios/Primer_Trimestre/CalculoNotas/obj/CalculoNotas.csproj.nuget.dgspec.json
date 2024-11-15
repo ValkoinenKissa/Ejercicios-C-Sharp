@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alberto Bollo\\Desktop\\Ejercicios-C-Sharp\\CalculoNotas\\CalculoNotas.csproj": {}
+    "C:\\Users\\Alberto Bollo\\Desktop\\Ejercicios-C-Sharp\\Ejercicios\\Primer_Trimestre\\CalculoNotas\\CalculoNotas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alberto Bollo\\Desktop\\Ejercicios-C-Sharp\\CalculoNotas\\CalculoNotas.csproj": {
+    "C:\\Users\\Alberto Bollo\\Desktop\\Ejercicios-C-Sharp\\Ejercicios\\Primer_Trimestre\\CalculoNotas\\CalculoNotas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alberto Bollo\\Desktop\\Ejercicios-C-Sharp\\CalculoNotas\\CalculoNotas.csproj",
+        "projectUniqueName": "C:\\Users\\Alberto Bollo\\Desktop\\Ejercicios-C-Sharp\\Ejercicios\\Primer_Trimestre\\CalculoNotas\\CalculoNotas.csproj",
         "projectName": "CalculoNotas",
-        "projectPath": "C:\\Users\\Alberto Bollo\\Desktop\\Ejercicios-C-Sharp\\CalculoNotas\\CalculoNotas.csproj",
+        "projectPath": "C:\\Users\\Alberto Bollo\\Desktop\\Ejercicios-C-Sharp\\Ejercicios\\Primer_Trimestre\\CalculoNotas\\CalculoNotas.csproj",
         "packagesPath": "C:\\Users\\Alberto Bollo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alberto Bollo\\Desktop\\Ejercicios-C-Sharp\\CalculoNotas\\obj\\",
+        "outputPath": "C:\\Users\\Alberto Bollo\\Desktop\\Ejercicios-C-Sharp\\Ejercicios\\Primer_Trimestre\\CalculoNotas\\obj\\",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "configFilePaths": [

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alberto Bollo\\Desktop\\Ejercicios-C-Sharp\\IMC\\IMC.csproj",
+      "projectUniqueName": "C:\\Users\\Alberto Bollo\\Desktop\\Ejercicios-C-Sharp\\Ejercicios\\Primer_Trimestre\\IMC\\IMC.csproj",
       "projectName": "IMC",
-      "projectPath": "C:\\Users\\Alberto Bollo\\Desktop\\Ejercicios-C-Sharp\\IMC\\IMC.csproj",
+      "projectPath": "C:\\Users\\Alberto Bollo\\Desktop\\Ejercicios-C-Sharp\\Ejercicios\\Primer_Trimestre\\IMC\\IMC.csproj",
       "packagesPath": "C:\\Users\\Alberto Bollo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alberto Bollo\\Desktop\\Ejercicios-C-Sharp\\IMC\\obj\\",
+      "outputPath": "C:\\Users\\Alberto Bollo\\Desktop\\Ejercicios-C-Sharp\\Ejercicios\\Primer_Trimestre\\IMC\\obj\\",
       "projectStyle": "PackageReference",
       "UsingMicrosoftNETSdk": false,
       "configFilePaths": [

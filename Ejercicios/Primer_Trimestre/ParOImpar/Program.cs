@@ -1,5 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+// See https://aka.ms/new-console-template for more information
+
 int numero;
 
 Console.WriteLine("Dime un numero");

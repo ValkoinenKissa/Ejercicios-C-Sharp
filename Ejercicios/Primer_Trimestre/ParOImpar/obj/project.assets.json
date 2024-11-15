@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alberto Bollo\\Desktop\\Ejercicios-C-Sharp\\ParOImpar\\ParOImpar.csproj",
+      "projectUniqueName": "C:\\Users\\Alberto Bollo\\Desktop\\Ejercicios-C-Sharp\\Ejercicios\\Primer_Trimestre\\ParOImpar\\ParOImpar.csproj",
       "projectName": "ParOImpar",
-      "projectPath": "C:\\Users\\Alberto Bollo\\Desktop\\Ejercicios-C-Sharp\\ParOImpar\\ParOImpar.csproj",
+      "projectPath": "C:\\Users\\Alberto Bollo\\Desktop\\Ejercicios-C-Sharp\\Ejercicios\\Primer_Trimestre\\ParOImpar\\ParOImpar.csproj",
       "packagesPath": "C:\\Users\\Alberto Bollo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alberto Bollo\\Desktop\\Ejercicios-C-Sharp\\ParOImpar\\obj\\",
+      "outputPath": "C:\\Users\\Alberto Bollo\\Desktop\\Ejercicios-C-Sharp\\Ejercicios\\Primer_Trimestre\\ParOImpar\\obj\\",
       "projectStyle": "PackageReference",
       "UsingMicrosoftNETSdk": false,
       "configFilePaths": [

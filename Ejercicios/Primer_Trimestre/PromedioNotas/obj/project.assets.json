@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alberto Bollo\\Desktop\\Ejercicios-C-Sharp\\PromedioNotas\\PromedioNotas.csproj",
+      "projectUniqueName": "C:\\Users\\Alberto Bollo\\Desktop\\Ejercicios-C-Sharp\\Ejercicios\\Primer_Trimestre\\PromedioNotas\\PromedioNotas.csproj",
       "projectName": "PromedioNotas",
-      "projectPath": "C:\\Users\\Alberto Bollo\\Desktop\\Ejercicios-C-Sharp\\PromedioNotas\\PromedioNotas.csproj",
+      "projectPath": "C:\\Users\\Alberto Bollo\\Desktop\\Ejercicios-C-Sharp\\Ejercicios\\Primer_Trimestre\\PromedioNotas\\PromedioNotas.csproj",
       "packagesPath": "C:\\Users\\Alberto Bollo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alberto Bollo\\Desktop\\Ejercicios-C-Sharp\\PromedioNotas\\obj\\",
+      "outputPath": "C:\\Users\\Alberto Bollo\\Desktop\\Ejercicios-C-Sharp\\Ejercicios\\Primer_Trimestre\\PromedioNotas\\obj\\",
       "projectStyle": "PackageReference",
       "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
