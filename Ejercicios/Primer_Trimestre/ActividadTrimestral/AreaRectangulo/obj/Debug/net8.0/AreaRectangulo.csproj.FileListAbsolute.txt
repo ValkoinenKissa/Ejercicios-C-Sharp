@@ -1,0 +1,15 @@
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\AreaRectangulo\bin\Debug\net8.0\AreaRectangulo.exe
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\AreaRectangulo\bin\Debug\net8.0\AreaRectangulo.deps.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\AreaRectangulo\bin\Debug\net8.0\AreaRectangulo.runtimeconfig.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\AreaRectangulo\bin\Debug\net8.0\AreaRectangulo.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\AreaRectangulo\bin\Debug\net8.0\AreaRectangulo.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\AreaRectangulo\obj\Debug\net8.0\AreaRectangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\AreaRectangulo\obj\Debug\net8.0\AreaRectangulo.AssemblyInfoInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\AreaRectangulo\obj\Debug\net8.0\AreaRectangulo.AssemblyInfo.cs
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\AreaRectangulo\obj\Debug\net8.0\AreaRectangulo.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\AreaRectangulo\obj\Debug\net8.0\AreaRectangulo.sourcelink.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\AreaRectangulo\obj\Debug\net8.0\AreaRectangulo.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\AreaRectangulo\obj\Debug\net8.0\refint\AreaRectangulo.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\AreaRectangulo\obj\Debug\net8.0\AreaRectangulo.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\AreaRectangulo\obj\Debug\net8.0\AreaRectangulo.genruntimeconfig.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\AreaRectangulo\obj\Debug\net8.0\ref\AreaRectangulo.dll

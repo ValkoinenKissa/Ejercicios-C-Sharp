@@ -1,0 +1,15 @@
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\MayorOMenor\bin\Debug\net8.0\MayorOMenor.exe
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\MayorOMenor\bin\Debug\net8.0\MayorOMenor.deps.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\MayorOMenor\bin\Debug\net8.0\MayorOMenor.runtimeconfig.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\MayorOMenor\bin\Debug\net8.0\MayorOMenor.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\MayorOMenor\bin\Debug\net8.0\MayorOMenor.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\MayorOMenor\obj\Debug\net8.0\MayorOMenor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\MayorOMenor\obj\Debug\net8.0\MayorOMenor.AssemblyInfoInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\MayorOMenor\obj\Debug\net8.0\MayorOMenor.AssemblyInfo.cs
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\MayorOMenor\obj\Debug\net8.0\MayorOMenor.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\MayorOMenor\obj\Debug\net8.0\MayorOMenor.sourcelink.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\MayorOMenor\obj\Debug\net8.0\MayorOMenor.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\MayorOMenor\obj\Debug\net8.0\refint\MayorOMenor.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\MayorOMenor\obj\Debug\net8.0\MayorOMenor.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\MayorOMenor\obj\Debug\net8.0\MayorOMenor.genruntimeconfig.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\MayorOMenor\obj\Debug\net8.0\ref\MayorOMenor.dll

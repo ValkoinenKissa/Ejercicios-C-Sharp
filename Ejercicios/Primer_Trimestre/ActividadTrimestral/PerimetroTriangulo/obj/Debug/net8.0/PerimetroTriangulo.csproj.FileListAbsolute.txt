@@ -1,0 +1,15 @@
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\PerimetroTriangulo\bin\Debug\net8.0\PerimetroTriangulo.exe
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\PerimetroTriangulo\bin\Debug\net8.0\PerimetroTriangulo.deps.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\PerimetroTriangulo\bin\Debug\net8.0\PerimetroTriangulo.runtimeconfig.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\PerimetroTriangulo\bin\Debug\net8.0\PerimetroTriangulo.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\PerimetroTriangulo\bin\Debug\net8.0\PerimetroTriangulo.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\PerimetroTriangulo\obj\Debug\net8.0\PerimetroTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\PerimetroTriangulo\obj\Debug\net8.0\PerimetroTriangulo.AssemblyInfoInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\PerimetroTriangulo\obj\Debug\net8.0\PerimetroTriangulo.AssemblyInfo.cs
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\PerimetroTriangulo\obj\Debug\net8.0\PerimetroTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\PerimetroTriangulo\obj\Debug\net8.0\PerimetroTriangulo.sourcelink.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\PerimetroTriangulo\obj\Debug\net8.0\PerimetroTriangulo.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\PerimetroTriangulo\obj\Debug\net8.0\refint\PerimetroTriangulo.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\PerimetroTriangulo\obj\Debug\net8.0\PerimetroTriangulo.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\PerimetroTriangulo\obj\Debug\net8.0\PerimetroTriangulo.genruntimeconfig.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\ActividadTrimestral\PerimetroTriangulo\obj\Debug\net8.0\ref\PerimetroTriangulo.dll
