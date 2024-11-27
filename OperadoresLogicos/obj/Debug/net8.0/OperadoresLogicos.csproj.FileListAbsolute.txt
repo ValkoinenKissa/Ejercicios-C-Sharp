@@ -1,0 +1,15 @@
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.exe
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.deps.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.runtimeconfig.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.AssemblyInfoInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.AssemblyInfo.cs
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.sourcelink.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\OperadoresLogicos\obj\Debug\net8.0\refint\OperadoresLogicos.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.genruntimeconfig.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\OperadoresLogicos\obj\Debug\net8.0\ref\OperadoresLogicos.dll
