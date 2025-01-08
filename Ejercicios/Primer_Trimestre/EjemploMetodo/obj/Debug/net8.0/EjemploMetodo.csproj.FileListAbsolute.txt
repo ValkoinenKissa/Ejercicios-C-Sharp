@@ -3,3 +3,13 @@ C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\Ej
 C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjemploMetodo\obj\Debug\net8.0\EjemploMetodo.AssemblyInfo.cs
 C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjemploMetodo\obj\Debug\net8.0\EjemploMetodo.csproj.CoreCompileInputs.cache
 C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjemploMetodo\obj\Debug\net8.0\EjemploMetodo.sourcelink.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjemploMetodo\bin\Debug\net8.0\EjemploMetodo.exe
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjemploMetodo\bin\Debug\net8.0\EjemploMetodo.deps.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjemploMetodo\bin\Debug\net8.0\EjemploMetodo.runtimeconfig.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjemploMetodo\bin\Debug\net8.0\EjemploMetodo.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjemploMetodo\bin\Debug\net8.0\EjemploMetodo.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjemploMetodo\obj\Debug\net8.0\EjemploMetodo.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjemploMetodo\obj\Debug\net8.0\refint\EjemploMetodo.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjemploMetodo\obj\Debug\net8.0\EjemploMetodo.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjemploMetodo\obj\Debug\net8.0\EjemploMetodo.genruntimeconfig.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Primer_Trimestre\EjemploMetodo\obj\Debug\net8.0\ref\EjemploMetodo.dll

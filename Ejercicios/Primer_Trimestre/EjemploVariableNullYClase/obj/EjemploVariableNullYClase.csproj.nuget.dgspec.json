@@ -13,7 +13,6 @@
         "packagesPath": "C:\\Users\\Alberto Bollo\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Alberto Bollo\\Desktop\\Ejercicios-C-Sharp\\Ejercicios\\Primer_Trimestre\\EjemploVariableNullYClase\\obj\\",
         "projectStyle": "PackageReference",
-        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "C:\\Users\\Alberto Bollo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
