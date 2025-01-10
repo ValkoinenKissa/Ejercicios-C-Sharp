@@ -8,17 +8,15 @@ Console.WriteLine("Imprimiendo el array en orden normal...");
 for (int i = 0; i < arrayCutre.Length; i++)
 {
     Console.Write(arrayCutre[i]);
-    
     Console.Write(" ");
     
 }
 
-Console.WriteLine("Imprimiendo el array en orden inverso...");
+Console.WriteLine("\nImprimiendo el array en orden inverso...");
 
-for (int i = arrayCutre.Length - 1; arrayCutre.Length > 0; i--)
+for (int i = arrayCutre.Length -1; i >= 0; i--)
 {
     Console.Write(arrayCutre[i]);
-    
     Console.Write(" ");
     
 }
