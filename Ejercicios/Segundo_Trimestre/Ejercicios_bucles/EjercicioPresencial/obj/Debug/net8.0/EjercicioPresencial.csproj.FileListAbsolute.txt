@@ -1,0 +1,15 @@
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_bucles\EjercicioPresencial\bin\Debug\net8.0\EjercicioPresencial.exe
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_bucles\EjercicioPresencial\bin\Debug\net8.0\EjercicioPresencial.deps.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_bucles\EjercicioPresencial\bin\Debug\net8.0\EjercicioPresencial.runtimeconfig.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_bucles\EjercicioPresencial\bin\Debug\net8.0\EjercicioPresencial.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_bucles\EjercicioPresencial\bin\Debug\net8.0\EjercicioPresencial.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_bucles\EjercicioPresencial\obj\Debug\net8.0\EjercicioPresencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_bucles\EjercicioPresencial\obj\Debug\net8.0\EjercicioPresencial.AssemblyInfoInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_bucles\EjercicioPresencial\obj\Debug\net8.0\EjercicioPresencial.AssemblyInfo.cs
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_bucles\EjercicioPresencial\obj\Debug\net8.0\EjercicioPresencial.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_bucles\EjercicioPresencial\obj\Debug\net8.0\EjercicioPresencial.sourcelink.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_bucles\EjercicioPresencial\obj\Debug\net8.0\EjercicioPresencial.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_bucles\EjercicioPresencial\obj\Debug\net8.0\refint\EjercicioPresencial.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_bucles\EjercicioPresencial\obj\Debug\net8.0\EjercicioPresencial.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_bucles\EjercicioPresencial\obj\Debug\net8.0\EjercicioPresencial.genruntimeconfig.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_bucles\EjercicioPresencial\obj\Debug\net8.0\ref\EjercicioPresencial.dll
