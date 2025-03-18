@@ -11,6 +11,16 @@
         "runtime": {
           "bin/placeholder/MathUtils.dll": {}
         }
+      },
+      "StringUtils/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/StringUtils.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StringUtils.dll": {}
+        }
       }
     }
   },
@@ -19,11 +29,17 @@
       "type": "project",
       "path": "../MathUtils/MathUtils.csproj",
       "msbuildProject": "../MathUtils/MathUtils.csproj"
+    },
+    "StringUtils/1.0.0": {
+      "type": "project",
+      "path": "../StringUtils/StringUtils.csproj",
+      "msbuildProject": "../StringUtils/StringUtils.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "MathUtils >= 1.0.0"
+      "MathUtils >= 1.0.0",
+      "StringUtils >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -53,6 +69,9 @@
           "projectReferences": {
             "C:\\Users\\Alberto Bollo\\Desktop\\Ejercicios-C-Sharp\\Ejercicios\\Segundo_Trimestre\\Ejercicios_Librerias\\MathUtils\\MathUtils.csproj": {
               "projectPath": "C:\\Users\\Alberto Bollo\\Desktop\\Ejercicios-C-Sharp\\Ejercicios\\Segundo_Trimestre\\Ejercicios_Librerias\\MathUtils\\MathUtils.csproj"
+            },
+            "C:\\Users\\Alberto Bollo\\Desktop\\Ejercicios-C-Sharp\\Ejercicios\\Segundo_Trimestre\\Ejercicios_Librerias\\StringUtils\\StringUtils.csproj": {
+              "projectPath": "C:\\Users\\Alberto Bollo\\Desktop\\Ejercicios-C-Sharp\\Ejercicios\\Segundo_Trimestre\\Ejercicios_Librerias\\StringUtils\\StringUtils.csproj"
             }
           }
         }

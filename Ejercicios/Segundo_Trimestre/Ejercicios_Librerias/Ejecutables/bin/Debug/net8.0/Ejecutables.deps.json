@@ -7,14 +7,44 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "Ejecutables/1.0.0": {
+        "dependencies": {
+          "MathUtils": "1.0.0",
+          "StringUtils": "1.0.0"
+        },
         "runtime": {
           "Ejecutables.dll": {}
+        }
+      },
+      "MathUtils/1.0.0": {
+        "runtime": {
+          "MathUtils.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "StringUtils/1.0.0": {
+        "runtime": {
+          "StringUtils.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "Ejecutables/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathUtils/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StringUtils/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
