@@ -14,23 +14,24 @@ class MultiplesExcepciones
         int num1, num2, resultado;
         try
         {
-            try
-            {
-                Console.WriteLine("Usuario, introduce el primer numero que quieras dividir: ");
-                num1 = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine("Usuario, ahora introduce el numero por el cual quieras dividir el num1 -->" + num1);
-                num2 = Convert.ToInt32(Console.ReadLine());
-                resultado = num1 / num2;
-                Console.WriteLine("Resultado de la division: " + resultado);
-            }
-            catch (FormatException)
-            {
-                Console.WriteLine("Solo se permite ingresar numeros enteros, prueba de nuevo");
-            }
+            Console.WriteLine("Usuario, introduce el primer numero que quieras dividir: ");
+            num1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Usuario, ahora introduce el numero por el cual quieras dividir el num1 -->" + num1);
+            num2 = Convert.ToInt32(Console.ReadLine());
+            resultado = num1 / num2;
+            Console.WriteLine("Resultado de la division: " + resultado);
         }
-        catch (DivideByZeroException)
+        catch (Exception ex) when (ex is FormatException || ex is DivideByZeroException)
         {
-            Console.WriteLine("No puedes dividir algo entre 0");
+            if (ex is FormatException)
+            {
+                Console.WriteLine("Solo se permite la introduccion de numeros, no de texto");
+            }
+
+            if (ex is DivideByZeroException)
+            {
+                Console.WriteLine("No puedes dividir algo entre 0");
+            }
         }
     }
 }
