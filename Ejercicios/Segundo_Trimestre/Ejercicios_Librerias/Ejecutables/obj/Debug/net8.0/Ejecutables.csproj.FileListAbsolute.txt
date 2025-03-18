@@ -1,0 +1,15 @@
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_Librerias\Ejecutables\bin\Debug\net8.0\Ejecutables.exe
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_Librerias\Ejecutables\bin\Debug\net8.0\Ejecutables.deps.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_Librerias\Ejecutables\bin\Debug\net8.0\Ejecutables.runtimeconfig.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_Librerias\Ejecutables\bin\Debug\net8.0\Ejecutables.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_Librerias\Ejecutables\bin\Debug\net8.0\Ejecutables.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_Librerias\Ejecutables\obj\Debug\net8.0\Ejecutables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_Librerias\Ejecutables\obj\Debug\net8.0\Ejecutables.AssemblyInfoInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_Librerias\Ejecutables\obj\Debug\net8.0\Ejecutables.AssemblyInfo.cs
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_Librerias\Ejecutables\obj\Debug\net8.0\Ejecutables.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_Librerias\Ejecutables\obj\Debug\net8.0\Ejecutables.sourcelink.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_Librerias\Ejecutables\obj\Debug\net8.0\Ejecutables.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_Librerias\Ejecutables\obj\Debug\net8.0\refint\Ejecutables.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_Librerias\Ejecutables\obj\Debug\net8.0\Ejecutables.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_Librerias\Ejecutables\obj\Debug\net8.0\Ejecutables.genruntimeconfig.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_Librerias\Ejecutables\obj\Debug\net8.0\ref\Ejecutables.dll
