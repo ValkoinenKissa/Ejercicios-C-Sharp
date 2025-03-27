@@ -12,7 +12,6 @@ class ListaNumeros
     public static void Main(string[] args)
     {
         List<String> listaNumeros = new List<String>();
-        List<int> listaNumerosClean = new List<int>();
 
         Console.WriteLine("Introduce una serie de numeros separados por comas para cargar la lista");
 
@@ -27,9 +26,9 @@ class ListaNumeros
             if (continuar.Equals("N"))
             {
                 Console.WriteLine("Mostrando todos los valores de la lista: ");
-                MostarNumeros(listaNumerosClean);
+                MostarNumeros(listaNumeros);
                 Console.WriteLine("Mostrando la suma total de valores: ");
-                SumaNumeros(listaNumeros, listaNumerosClean);
+                SumaNumeros(listaNumeros);
                 break;
             }
 
@@ -51,27 +50,26 @@ class ListaNumeros
         listaNumeros.Add(numero);
     }
 
-    static void SumaNumeros(List<String> listaNumeros, List<int> listaNumerosClean)
+    static void SumaNumeros(List<String> listaNumeros)
     {
         int acumulado = 0;
+        String numeroClean;
         
         foreach (String numeros in listaNumeros)
         {
-            acumulado = int.Parse(numeros.Replace(",", ""));
-            listaNumerosClean.Add(acumulado);
-            acumulado += acumulado;
+            numeroClean = numeros.Replace(",", " ");
+            acumulado += int.Parse(numeroClean);
         }
 
         Console.WriteLine($"La suma total de valores del array es: {acumulado}");
     }
 
-    static void MostarNumeros(List<int> listaNumerosClean)
+    static void MostarNumeros(List<String> listaNumeros)
     {
-        foreach (int numeros in listaNumerosClean)
+        foreach (String numeros in listaNumeros)
         {
             Console.Write(numeros);
         }
-
         Console.WriteLine();
     }
 }

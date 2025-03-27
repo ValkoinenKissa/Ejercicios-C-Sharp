@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculoNotas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3366245707ee70f77a4133581a6ceaa7d5c017a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+363b00bfe31865e0682de8c1dac26d5682c5527a")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculoNotas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculoNotas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
