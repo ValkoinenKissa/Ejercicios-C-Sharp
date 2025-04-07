@@ -1,0 +1,15 @@
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Ejercicios_ficheros\Ejercicio_numeros\bin\Debug\net8.0\Ejercicio_numeros.exe
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Ejercicios_ficheros\Ejercicio_numeros\bin\Debug\net8.0\Ejercicio_numeros.deps.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Ejercicios_ficheros\Ejercicio_numeros\bin\Debug\net8.0\Ejercicio_numeros.runtimeconfig.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Ejercicios_ficheros\Ejercicio_numeros\bin\Debug\net8.0\Ejercicio_numeros.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Ejercicios_ficheros\Ejercicio_numeros\bin\Debug\net8.0\Ejercicio_numeros.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Ejercicios_ficheros\Ejercicio_numeros\obj\Debug\net8.0\Ejercicio_numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Ejercicios_ficheros\Ejercicio_numeros\obj\Debug\net8.0\Ejercicio_numeros.AssemblyInfoInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Ejercicios_ficheros\Ejercicio_numeros\obj\Debug\net8.0\Ejercicio_numeros.AssemblyInfo.cs
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Ejercicios_ficheros\Ejercicio_numeros\obj\Debug\net8.0\Ejercicio_numeros.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Ejercicios_ficheros\Ejercicio_numeros\obj\Debug\net8.0\Ejercicio_numeros.sourcelink.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Ejercicios_ficheros\Ejercicio_numeros\obj\Debug\net8.0\Ejercicio_numeros.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Ejercicios_ficheros\Ejercicio_numeros\obj\Debug\net8.0\refint\Ejercicio_numeros.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Ejercicios_ficheros\Ejercicio_numeros\obj\Debug\net8.0\Ejercicio_numeros.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Ejercicios_ficheros\Ejercicio_numeros\obj\Debug\net8.0\Ejercicio_numeros.genruntimeconfig.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Ejercicios_ficheros\Ejercicio_numeros\obj\Debug\net8.0\ref\Ejercicio_numeros.dll

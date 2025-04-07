@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Calculo_promedio_tiempo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+363b00bfe31865e0682de8c1dac26d5682c5527a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+701b10cb1a0b5a52efb4d14b31c3103eabeff725")]
 [assembly: System.Reflection.AssemblyProductAttribute("Calculo_promedio_tiempo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Calculo_promedio_tiempo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
