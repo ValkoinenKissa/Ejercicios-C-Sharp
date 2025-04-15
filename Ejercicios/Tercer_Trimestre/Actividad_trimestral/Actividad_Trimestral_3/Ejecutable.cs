@@ -39,6 +39,7 @@ public class Ejecutable
                             if (salaioMedi0 > 0)
                             {
                                 Console.WriteLine("El salario medio de todos los empleados es: " + salaioMedi0);
+                                Console.WriteLine();
                             }
                             break;
                         case 4:
