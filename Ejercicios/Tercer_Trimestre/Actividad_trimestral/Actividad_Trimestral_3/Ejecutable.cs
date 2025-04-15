@@ -18,8 +18,7 @@ public class Ejecutable
                 int opcion;
                 do
                 {
-                    Console.WriteLine(
-                        "1. Leer el contenido del fichero y almacenar los datos en una lista de objetos.");
+                    Console.WriteLine("1. Leer el contenido del fichero y almacenar los datos en una lista de objetos.");
                     Console.WriteLine("2. Mostrar por consola todos los empleados con su información formateada.");
                     Console.WriteLine("3. Calcular y mostrar el salario promedio de todos los empleados.");
                     Console.WriteLine("4. Filtrar y mostrar los empleados cuyo salario sea mayor al promedio.");
