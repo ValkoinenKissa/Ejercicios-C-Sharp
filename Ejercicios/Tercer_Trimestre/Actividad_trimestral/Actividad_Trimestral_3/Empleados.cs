@@ -31,11 +31,27 @@ namespace Actividad_Trimestral_3;
 
 class Empleados
 {
+    public int Identificador { get; set; }
+    public string Nombre { get; set; }
+    public int Edad { get; set; }
+    public string Departamento { get; set; }
+    public decimal Salario { get; set; }
 
-    static void Main()
+    //constructor
+    public Empleados(int identificador, string nombre, int edad, string departamento, decimal salario)
     {
-        
+        this.Identificador = identificador;
+        this.Nombre = nombre;
+        this.Edad = edad;
+        this.Departamento = departamento;
+        this.Salario = salario;
     }
-    
-}
 
+    //ToString
+
+    public override string ToString()
+    {
+        return $" (Identificador: {Identificador}, Nombre: {Nombre}, Edad: {Edad}, Departamento: " +
+               $"{Departamento}, Salario: {Salario}) ";
+    }
+}

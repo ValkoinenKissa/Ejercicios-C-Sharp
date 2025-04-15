@@ -1,0 +1,15 @@
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Actividad_trimestral\Actividad_Trimestral_3\bin\Debug\net8.0\Actividad_Trimestral_3.exe
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Actividad_trimestral\Actividad_Trimestral_3\bin\Debug\net8.0\Actividad_Trimestral_3.deps.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Actividad_trimestral\Actividad_Trimestral_3\bin\Debug\net8.0\Actividad_Trimestral_3.runtimeconfig.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Actividad_trimestral\Actividad_Trimestral_3\bin\Debug\net8.0\Actividad_Trimestral_3.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Actividad_trimestral\Actividad_Trimestral_3\bin\Debug\net8.0\Actividad_Trimestral_3.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Actividad_trimestral\Actividad_Trimestral_3\obj\Debug\net8.0\Actividad_Trimestral_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Actividad_trimestral\Actividad_Trimestral_3\obj\Debug\net8.0\Actividad_Trimestral_3.AssemblyInfoInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Actividad_trimestral\Actividad_Trimestral_3\obj\Debug\net8.0\Actividad_Trimestral_3.AssemblyInfo.cs
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Actividad_trimestral\Actividad_Trimestral_3\obj\Debug\net8.0\Actividad_Trimestral_3.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Actividad_trimestral\Actividad_Trimestral_3\obj\Debug\net8.0\Actividad_Trimestral_3.sourcelink.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Actividad_trimestral\Actividad_Trimestral_3\obj\Debug\net8.0\Actividad_Trimestral_3.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Actividad_trimestral\Actividad_Trimestral_3\obj\Debug\net8.0\refint\Actividad_Trimestral_3.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Actividad_trimestral\Actividad_Trimestral_3\obj\Debug\net8.0\Actividad_Trimestral_3.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Actividad_trimestral\Actividad_Trimestral_3\obj\Debug\net8.0\Actividad_Trimestral_3.genruntimeconfig.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Actividad_trimestral\Actividad_Trimestral_3\obj\Debug\net8.0\ref\Actividad_Trimestral_3.dll
