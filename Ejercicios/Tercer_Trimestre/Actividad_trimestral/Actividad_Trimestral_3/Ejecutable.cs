@@ -151,6 +151,7 @@ public class Ejecutable
                 if (empleado.Salario > salarioPromedio)
                 {
                     Console.WriteLine(empleado);
+                    Console.WriteLine();
                 }
             }
         }
