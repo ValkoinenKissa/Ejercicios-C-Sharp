@@ -131,6 +131,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Select", "Ejercicios\Tercer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Update", "Ejercicios\Tercer_Trimestre\Ejercicios_sql\Update\Update.csproj", "{45563413-51A2-4AD4-B170-24735464C665}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delete", "Ejercicios\Tercer_Trimestre\Ejercicios_sql\Delete\Delete.csproj", "{363947E3-5978-486D-BC89-6CAEC12EA999}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -329,6 +331,10 @@ Global
 		{45563413-51A2-4AD4-B170-24735464C665}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45563413-51A2-4AD4-B170-24735464C665}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45563413-51A2-4AD4-B170-24735464C665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{363947E3-5978-486D-BC89-6CAEC12EA999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{363947E3-5978-486D-BC89-6CAEC12EA999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{363947E3-5978-486D-BC89-6CAEC12EA999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{363947E3-5978-486D-BC89-6CAEC12EA999}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -397,6 +403,7 @@ Global
 		{0D49EBDA-FB89-4BDC-8963-A548FC94EAF3} = {C1184851-B5A5-4CDF-893A-9F8CD33F50A6}
 		{A4BF62EF-D1F2-44C5-B21D-97DC7CA548AB} = {C1184851-B5A5-4CDF-893A-9F8CD33F50A6}
 		{45563413-51A2-4AD4-B170-24735464C665} = {C1184851-B5A5-4CDF-893A-9F8CD33F50A6}
+		{363947E3-5978-486D-BC89-6CAEC12EA999} = {C1184851-B5A5-4CDF-893A-9F8CD33F50A6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9DC77045-C216-4DA7-B940-463EA2E68CDF}
