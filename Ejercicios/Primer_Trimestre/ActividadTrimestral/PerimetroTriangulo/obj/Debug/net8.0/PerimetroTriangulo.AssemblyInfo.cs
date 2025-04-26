@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PerimetroTriangulo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69eb1818d1bd3b9a0d669e18302bd8c658fd8b37")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3dee1d6d38af5c7e50d6876ac52cc4893ecdc937")]
 [assembly: System.Reflection.AssemblyProductAttribute("PerimetroTriangulo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PerimetroTriangulo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
