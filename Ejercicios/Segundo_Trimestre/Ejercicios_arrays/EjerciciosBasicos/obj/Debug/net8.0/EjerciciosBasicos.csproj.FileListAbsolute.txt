@@ -1,0 +1,15 @@
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_arrays\EjerciciosBasicos\bin\Debug\net8.0\EjerciciosBasicos.exe
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_arrays\EjerciciosBasicos\bin\Debug\net8.0\EjerciciosBasicos.deps.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_arrays\EjerciciosBasicos\bin\Debug\net8.0\EjerciciosBasicos.runtimeconfig.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_arrays\EjerciciosBasicos\bin\Debug\net8.0\EjerciciosBasicos.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_arrays\EjerciciosBasicos\bin\Debug\net8.0\EjerciciosBasicos.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_arrays\EjerciciosBasicos\obj\Debug\net8.0\EjerciciosBasicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_arrays\EjerciciosBasicos\obj\Debug\net8.0\EjerciciosBasicos.AssemblyInfoInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_arrays\EjerciciosBasicos\obj\Debug\net8.0\EjerciciosBasicos.AssemblyInfo.cs
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_arrays\EjerciciosBasicos\obj\Debug\net8.0\EjerciciosBasicos.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_arrays\EjerciciosBasicos\obj\Debug\net8.0\EjerciciosBasicos.sourcelink.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_arrays\EjerciciosBasicos\obj\Debug\net8.0\EjerciciosBasicos.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_arrays\EjerciciosBasicos\obj\Debug\net8.0\refint\EjerciciosBasicos.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_arrays\EjerciciosBasicos\obj\Debug\net8.0\EjerciciosBasicos.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_arrays\EjerciciosBasicos\obj\Debug\net8.0\EjerciciosBasicos.genruntimeconfig.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_arrays\EjerciciosBasicos\obj\Debug\net8.0\ref\EjerciciosBasicos.dll

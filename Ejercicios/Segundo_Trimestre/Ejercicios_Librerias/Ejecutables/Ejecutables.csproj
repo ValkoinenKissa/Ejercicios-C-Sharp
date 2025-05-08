@@ -8,6 +8,7 @@
     </PropertyGroup>
     
     <ItemGroup>
+        <ProjectReference Include="..\HelloWorld\HelloWorld.csproj" />
         <ProjectReference Include="..\MathUtils\MathUtils.csproj" />
         <ProjectReference Include="..\StringUtils\StringUtils.csproj" />
     </ItemGroup>

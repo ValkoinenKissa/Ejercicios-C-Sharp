@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultiploDe5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3dee1d6d38af5c7e50d6876ac52cc4893ecdc937")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+683c3a62b1378af1daf6da4d8ef2c2919d7fa186")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultiploDe5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultiploDe5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

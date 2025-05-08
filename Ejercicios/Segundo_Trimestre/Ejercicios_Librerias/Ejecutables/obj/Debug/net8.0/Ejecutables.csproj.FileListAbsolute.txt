@@ -25,3 +25,8 @@ C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\E
 C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_Librerias\Ejecutables\bin\Debug\net8.0\StringUtils.exe
 C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_Librerias\Ejecutables\bin\Debug\net8.0\StringUtils.dll
 C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_Librerias\Ejecutables\bin\Debug\net8.0\StringUtils.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_Librerias\Ejecutables\bin\Debug\net8.0\HelloWorld.deps.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_Librerias\Ejecutables\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_Librerias\Ejecutables\bin\Debug\net8.0\HelloWorld.exe
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_Librerias\Ejecutables\bin\Debug\net8.0\HelloWorld.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Segundo_Trimestre\Ejercicios_Librerias\Ejecutables\bin\Debug\net8.0\HelloWorld.pdb

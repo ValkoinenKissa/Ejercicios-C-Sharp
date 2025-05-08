@@ -14,9 +14,13 @@ for (int i = 0; i < arrayCutre.Length; i++)
 
 Console.WriteLine("\nImprimiendo el array en orden inverso...");
 
-for (int i = arrayCutre.Length -1; i >= 0; i--)
+
+int[] arrayReverso;
+
+arrayReverso = arrayCutre.Reverse().ToArray();
+
+foreach (int numero in arrayReverso)
 {
-    Console.Write(arrayCutre[i]);
-    Console.Write(" ");
-    
+    Console.Write(numero + " ");
 }
+

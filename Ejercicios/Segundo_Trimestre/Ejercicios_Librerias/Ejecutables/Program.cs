@@ -1,5 +1,6 @@
 ﻿using MathUtils;
 using StringUtils;
+using HelloWorld;
 namespace Ejecutables;
 public class Mains
 {
@@ -10,5 +11,8 @@ public class Mains
 
         int contadorLetras = UtilidadesCadenas.ContarLetrasString("HOLA");
         Console.WriteLine($"La palabra HOLA tiene: {contadorLetras} letras");
+        
+        HolaMundo.ImprimirMetodoParametro("Mundo");
+        
     }
 }
