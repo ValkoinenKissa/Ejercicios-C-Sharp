@@ -18,7 +18,7 @@ class ExcepcionDivisionZero
             num1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Usuario, ahora introduce el numero por el cual quieras dividir el num1 -->" + num1);
             num2 = Convert.ToInt32(Console.ReadLine());
-
+            
             resultado = num1 / num2;
 
             Console.WriteLine("Resultado de la division: " + resultado);

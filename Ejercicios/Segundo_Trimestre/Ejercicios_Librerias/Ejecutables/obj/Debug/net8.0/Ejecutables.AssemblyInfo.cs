@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ejecutables")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+683c3a62b1378af1daf6da4d8ef2c2919d7fa186")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19fe34767769c7361423b4c531a8dadcbf5ae5fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ejecutables")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ejecutables")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
