@@ -15,7 +15,7 @@ namespace Ejercicio_3
     
     class Ejercicio3
     {
-        public static void Main()
+        static void Main()
         {
             string connectionString = "Server=localhost;Database=Tienda;Uid=root;Pwd=;";
 
