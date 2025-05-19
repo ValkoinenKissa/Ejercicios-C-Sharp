@@ -9,7 +9,7 @@ o	Hablar(): Este método debe mostrar por consola un mensaje que indique qué so
  (por ejemplo, "El perro dice: Guau", "El gato dice: Miau").
 o	MostrarInformacion(): Este método debe mostrar en consola el nombre, edad y especie del animal.
  */
-public class Animal
+public abstract class Animal
 {
     protected string NombreAnimal {get; set;}
     private int Edad {get; set;}
