@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EjemploVariableNullYClase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+194b46a4ddcfa4fef2c79a3d4c1632978615e32a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+996e6edc3f5bbba4a552685c532b4ef5776887a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("EjemploVariableNullYClase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EjemploVariableNullYClase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

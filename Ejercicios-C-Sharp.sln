@@ -163,6 +163,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_2", "Ejercicios\T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_3", "Ejercicios\Tercer_Trimestre\Examen_final\Ejercicio_3\Ejercicio_3.csproj", "{98DD72C9-F4A9-4A17-995A-44F5DF4B58A3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EjerciciosRepaso", "EjerciciosRepaso", "{D2CF1D72-BE64-41B0-9D03-5295F22237A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -497,6 +499,7 @@ Global
 		{7FEB96E2-0A90-4C81-AB62-B09DD5156174} = {11E643D5-144D-4746-9EBF-E1E796846203}
 		{FEC45C83-C77D-4437-AA2A-C6D2DB12BE04} = {11E643D5-144D-4746-9EBF-E1E796846203}
 		{98DD72C9-F4A9-4A17-995A-44F5DF4B58A3} = {11E643D5-144D-4746-9EBF-E1E796846203}
+		{D2CF1D72-BE64-41B0-9D03-5295F22237A3} = {6A7BEAE7-7788-4699-8DD2-44AC476BA445}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9DC77045-C216-4DA7-B940-463EA2E68CDF}

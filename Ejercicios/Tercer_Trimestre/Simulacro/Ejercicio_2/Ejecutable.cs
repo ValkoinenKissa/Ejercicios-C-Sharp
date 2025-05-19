@@ -39,7 +39,7 @@ namespace Ejercicio_2
             Console.WriteLine(g.MostrarInformacion());
             
             g.Hablar("Miau");
-            p.Hablar("Miau");
+            p.Hablar("Guau");
         }
     }
 }
