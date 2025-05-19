@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ejercicio_alumnos_write/1.0.0": {
+        "runtime": {
+          "Ejercicio_alumnos_write.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio_alumnos_write/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

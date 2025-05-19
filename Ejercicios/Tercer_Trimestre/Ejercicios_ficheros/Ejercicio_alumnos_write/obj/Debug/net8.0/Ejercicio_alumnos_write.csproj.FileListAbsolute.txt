@@ -1,0 +1,15 @@
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Ejercicios_ficheros\Ejercicio_alumnos_write\bin\Debug\net8.0\Ejercicio_alumnos_write.exe
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Ejercicios_ficheros\Ejercicio_alumnos_write\bin\Debug\net8.0\Ejercicio_alumnos_write.deps.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Ejercicios_ficheros\Ejercicio_alumnos_write\bin\Debug\net8.0\Ejercicio_alumnos_write.runtimeconfig.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Ejercicios_ficheros\Ejercicio_alumnos_write\bin\Debug\net8.0\Ejercicio_alumnos_write.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Ejercicios_ficheros\Ejercicio_alumnos_write\bin\Debug\net8.0\Ejercicio_alumnos_write.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Ejercicios_ficheros\Ejercicio_alumnos_write\obj\Debug\net8.0\Ejercicio_alumnos_write.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Ejercicios_ficheros\Ejercicio_alumnos_write\obj\Debug\net8.0\Ejercicio_alumnos_write.AssemblyInfoInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Ejercicios_ficheros\Ejercicio_alumnos_write\obj\Debug\net8.0\Ejercicio_alumnos_write.AssemblyInfo.cs
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Ejercicios_ficheros\Ejercicio_alumnos_write\obj\Debug\net8.0\Ejercicio_alumnos_write.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Ejercicios_ficheros\Ejercicio_alumnos_write\obj\Debug\net8.0\Ejercicio_alumnos_write.sourcelink.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Ejercicios_ficheros\Ejercicio_alumnos_write\obj\Debug\net8.0\Ejercicio_alumnos_write.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Ejercicios_ficheros\Ejercicio_alumnos_write\obj\Debug\net8.0\refint\Ejercicio_alumnos_write.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Ejercicios_ficheros\Ejercicio_alumnos_write\obj\Debug\net8.0\Ejercicio_alumnos_write.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Ejercicios_ficheros\Ejercicio_alumnos_write\obj\Debug\net8.0\Ejercicio_alumnos_write.genruntimeconfig.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\Ejercicios_ficheros\Ejercicio_alumnos_write\obj\Debug\net8.0\ref\Ejercicio_alumnos_write.dll
