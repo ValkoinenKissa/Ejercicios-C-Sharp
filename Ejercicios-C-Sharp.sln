@@ -219,6 +219,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CosasRaras", "CosasRaras", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "structPunto", "Ejercicios\Tercer_Trimestre\CosasRaras\structPunto\structPunto.csproj", "{AFF49C4E-247C-417B-9E74-41B667FCA210}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Ejercicios\Tercer_Trimestre\CosasRaras\Interfaces\Interfaces.csproj", "{3564331A-2EE6-4416-9F60-72FB15548E53}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -557,6 +559,10 @@ Global
 		{AFF49C4E-247C-417B-9E74-41B667FCA210}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFF49C4E-247C-417B-9E74-41B667FCA210}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFF49C4E-247C-417B-9E74-41B667FCA210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3564331A-2EE6-4416-9F60-72FB15548E53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3564331A-2EE6-4416-9F60-72FB15548E53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3564331A-2EE6-4416-9F60-72FB15548E53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3564331A-2EE6-4416-9F60-72FB15548E53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -669,6 +675,7 @@ Global
 		{5029F2B0-9519-482C-8BDD-ADF3EB6D1CD0} = {CB427A6A-550E-4443-827A-E62EB1A1ACF7}
 		{8CC3D05A-BED9-4FFD-B2AC-19B9115B059C} = {6A7BEAE7-7788-4699-8DD2-44AC476BA445}
 		{AFF49C4E-247C-417B-9E74-41B667FCA210} = {8CC3D05A-BED9-4FFD-B2AC-19B9115B059C}
+		{3564331A-2EE6-4416-9F60-72FB15548E53} = {8CC3D05A-BED9-4FFD-B2AC-19B9115B059C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9DC77045-C216-4DA7-B940-463EA2E68CDF}
