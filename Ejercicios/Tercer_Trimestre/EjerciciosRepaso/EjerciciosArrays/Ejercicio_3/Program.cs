@@ -12,7 +12,7 @@ List<int> listaEnteros = new List<int>();
 
 Console.WriteLine("Usuario, introduce 5 numeros y se mostrara el mayor");
 
-for (int i = 0; i < listaEnteros.Count; i++)
+for (int i = 0; i < 5; i++)
 {
     Console.WriteLine($"Introduce el numero {i + 1}: ");
     int numero = Convert.ToInt32(Console.ReadLine());
@@ -21,9 +21,9 @@ for (int i = 0; i < listaEnteros.Count; i++)
 }
 
 listaEnteros.Sort();
+listaEnteros.Reverse();
 
-int numeroMasGrande = listaEnteros.IndexOf(listaEnteros.Count -1);
-
+int numeroMasGrande = listaEnteros[0];
 Console.WriteLine($"El numero mas grande es: {numeroMasGrande}");
 
 
