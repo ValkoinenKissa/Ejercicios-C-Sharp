@@ -1,0 +1,15 @@
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\CosasRaras\EjemploEnum\bin\Debug\net8.0\EjemploEnum.exe
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\CosasRaras\EjemploEnum\bin\Debug\net8.0\EjemploEnum.deps.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\CosasRaras\EjemploEnum\bin\Debug\net8.0\EjemploEnum.runtimeconfig.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\CosasRaras\EjemploEnum\bin\Debug\net8.0\EjemploEnum.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\CosasRaras\EjemploEnum\bin\Debug\net8.0\EjemploEnum.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\CosasRaras\EjemploEnum\obj\Debug\net8.0\EjemploEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\CosasRaras\EjemploEnum\obj\Debug\net8.0\EjemploEnum.AssemblyInfoInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\CosasRaras\EjemploEnum\obj\Debug\net8.0\EjemploEnum.AssemblyInfo.cs
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\CosasRaras\EjemploEnum\obj\Debug\net8.0\EjemploEnum.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\CosasRaras\EjemploEnum\obj\Debug\net8.0\EjemploEnum.sourcelink.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\CosasRaras\EjemploEnum\obj\Debug\net8.0\EjemploEnum.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\CosasRaras\EjemploEnum\obj\Debug\net8.0\refint\EjemploEnum.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\CosasRaras\EjemploEnum\obj\Debug\net8.0\EjemploEnum.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\CosasRaras\EjemploEnum\obj\Debug\net8.0\EjemploEnum.genruntimeconfig.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\CosasRaras\EjemploEnum\obj\Debug\net8.0\ref\EjemploEnum.dll

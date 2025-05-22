@@ -1,0 +1,15 @@
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\CosasRaras\structPunto\bin\Debug\net8.0\structPunto.exe
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\CosasRaras\structPunto\bin\Debug\net8.0\structPunto.deps.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\CosasRaras\structPunto\bin\Debug\net8.0\structPunto.runtimeconfig.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\CosasRaras\structPunto\bin\Debug\net8.0\structPunto.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\CosasRaras\structPunto\bin\Debug\net8.0\structPunto.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\CosasRaras\structPunto\obj\Debug\net8.0\structPunto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\CosasRaras\structPunto\obj\Debug\net8.0\structPunto.AssemblyInfoInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\CosasRaras\structPunto\obj\Debug\net8.0\structPunto.AssemblyInfo.cs
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\CosasRaras\structPunto\obj\Debug\net8.0\structPunto.csproj.CoreCompileInputs.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\CosasRaras\structPunto\obj\Debug\net8.0\structPunto.sourcelink.json
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\CosasRaras\structPunto\obj\Debug\net8.0\structPunto.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\CosasRaras\structPunto\obj\Debug\net8.0\refint\structPunto.dll
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\CosasRaras\structPunto\obj\Debug\net8.0\structPunto.pdb
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\CosasRaras\structPunto\obj\Debug\net8.0\structPunto.genruntimeconfig.cache
+C:\Users\Alberto Bollo\Desktop\Ejercicios-C-Sharp\Ejercicios\Tercer_Trimestre\CosasRaras\structPunto\obj\Debug\net8.0\ref\structPunto.dll

@@ -19,7 +19,7 @@
       "HelloWorld/1.0.0": {
         "runtime": {
           "HelloWorld.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -27,7 +27,7 @@
       "MathUtils/1.0.0": {
         "runtime": {
           "MathUtils.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -35,7 +35,7 @@
       "StringUtils/1.0.0": {
         "runtime": {
           "StringUtils.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
